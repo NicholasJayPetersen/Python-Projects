@@ -1,0 +1,8 @@
+Two Numbers Pseudocode
+
+1. Display welcome message!
+2. Prompt user for number 1 and store in num1
+3. Prompt user for number 2 and store in num2
+4. Compare numbers and if number one is larger, display num1 is greater than num2
+5. Else, display num2 is greater than num1.
+6. Display exit message!

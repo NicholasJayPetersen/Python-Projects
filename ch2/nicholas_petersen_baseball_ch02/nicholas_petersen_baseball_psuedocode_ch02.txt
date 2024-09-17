@@ -1,0 +1,8 @@
+Batting average calculator
+
+1. display welcome message and description
+2. get the players name from the user
+3. get number of times at bat from the user
+4. get number of hits from the user
+5. calculate that batting average for the player to 3 decimals with: avg = hits / times at bat.
+6. display the rounded average

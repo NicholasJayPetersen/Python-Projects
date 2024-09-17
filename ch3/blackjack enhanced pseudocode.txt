@@ -1,0 +1,13 @@
+Blackjack enhanced
+
+1. get staring money from user
+2. set infinite loop, while not broken
+3. get bet from user
+4. get game outcome from user b,w,p,l
+5. if blackjack is chosen, calculate and then add to starting money
+6. otherwise if win is chose, calculate and then add to starting money
+7. othersie if push is chosen, calculate and then add to starting money
+8. otherwise if loss is chosen, calculate and then add to starting money
+9. otherwise if wrong input is chosen display error and discard
+10. prompt user to bet agian and repeat loop
+11. if break is selected display exit message

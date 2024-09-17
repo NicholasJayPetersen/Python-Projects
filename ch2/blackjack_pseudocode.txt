@@ -1,0 +1,24 @@
+The blackjack app
+
+1. Open with application title
+2. Specify the static payout ratio
+3. get starting money from the user
+4. get the bet amount from the user
+5. calculate blackjack from inputs
+6. calculate win from inputs
+7. calculate push from inputs
+8. calculate loss from inputs
+9. Display the ending balance for each outcome in rows
+
+
+
+Output organization:
+
+ENDING MONEY FOR ACCOUNT
+Blackjack: ---> blackjack payout
+Win: ---------> win payout	 
+Push: --------> push payout
+Loss: --------> loss payout
+
+
+

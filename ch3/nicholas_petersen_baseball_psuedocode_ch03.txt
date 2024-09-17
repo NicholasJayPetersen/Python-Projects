@@ -1,0 +1,14 @@
+Batting average calculator
+
+1. display welcome message and menu choicese
+2  get menu opton from user
+3. if menu choice is 1:
+	a. get the players name from the user
+	b. get number of times at bat from the user
+	c. get number of hits from the user
+	d. calculate that batting average for the player to 3 decimals with: avg = hits / times at bat.
+	e. display the rounded average
+	f. ask user for menu choice again
+	g. if choice is 1 repeat loop
+4. if menu choice is 2, exit
+5. for any other choice other than 1 or 2, display error and prompt again.
